@@ -1,1 +1,1 @@
-#  METHODOLOGY
+#  **Amazon Product Recommendation Model**

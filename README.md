@@ -14,7 +14,7 @@
 
 **Output:** The system provides the top 10 most relevant products based on the input query.
 
-# 3. Input / Output
+# Input / Output
 
 **Input:** The user enters a product name or keyword in the search bar.
 
@@ -22,6 +22,30 @@
 
 
 ![amazon_table](https://github.com/user-attachments/assets/628fe168-e884-43a1-858e-3a3a349d77c6)
+
+
+# INTERFACE
+
+
+# INSTALLATION
+To run this project locally, follow these steps:
+
+1.Clone the repository.
+
+2.Ensure you have the necessary dependencies installed:
+
+**pip install pandas scikit-learn streamlit pillow nltk**
+
+3.Download NLTK data (if not already installed):
+
+**import nltk**
+**nltk.download('all')**
+
+4.Run the Streamlit app:
+
+**streamlit run your_script_name.py**
+
+
 
 
 

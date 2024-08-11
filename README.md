@@ -25,6 +25,7 @@
 
 
 # INTERFACE
+![amazon_readme](https://github.com/user-attachments/assets/20e65ddf-4594-4420-9864-8a32f6420342)
 
 
 # INSTALLATION

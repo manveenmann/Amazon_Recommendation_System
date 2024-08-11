@@ -21,4 +21,7 @@
 **Output:** The model returns a list of the top 10 products that match the query based on title and description similarity.
 
 
+![amazon_table](https://github.com/user-attachments/assets/628fe168-e884-43a1-858e-3a3a349d77c6)
+
+
 

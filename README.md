@@ -46,6 +46,27 @@ To run this project locally, follow these steps:
 
 **streamlit run your_script_name.py**
 
+# USAGE
+Launch the **Streamlit** app.
+
+Enter a product name or relevant keyword in the text input field.
+
+Click the **Search** button to see the top 10 recommended products.
+
+# ABOUT THE DATA
+
+The dataset contains Amazon product details including:
+
+**Title:** The name of the product.
+
+**Description:** A brief description of the product.
+
+**Category:** The category the product belongs to.
+
+# ACKNOWLEDGEMENT
+
+**Dataset Source**:https://www.kaggle.com/code/noorsaeed/amazone-products-recommendation-system-ml
+
 
 
 
